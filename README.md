@@ -10,6 +10,7 @@ This Microsoft Excel project is a fictitious Case Study that analyzes Adidas's s
 * dataset_AS.csv - raw dataset
 * CaseStudy_AS.pdf - case study file
 * PivotTables_AS.png - Snapshot of PivotTables used for analysis.
+* Documentation_of_Steps.png - documentation of the data cleaning steps
 
 **Analysis Overview:**
 * Sales Performance Tracking: Tracking and visualizing monthly sales trends, profitability, and operating margins across different regions and sales channels.
